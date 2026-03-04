@@ -1,0 +1,8 @@
+{
+  "name": "MediGenie AI",
+  "description": "An advanced agentic medical assistant featuring a smart chatbot, symptom tracking, and health insight visualizations.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
